@@ -1,6 +1,6 @@
 # task_management
 
-A new Flutter project.
+A Flutter-based to-do list app with Firebase authentication and Firestore integration. Users can create, edit, and delete tasks in real-time.
 
 ## Getting Started
 

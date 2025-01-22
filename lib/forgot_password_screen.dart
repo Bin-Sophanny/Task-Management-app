@@ -72,7 +72,7 @@ class ForgotPasswordScreen extends StatelessWidget {
                       ScaffoldMessenger.of(context).showSnackBar(
                         SnackBar(
                           content: Text(
-                              "Failed to send password reset email: ${e.toString()}"),
+                              "The Email does not exist.: ${e.toString()}"),
                         ),
                       );
                     }

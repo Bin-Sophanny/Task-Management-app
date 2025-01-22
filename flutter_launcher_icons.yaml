@@ -1,0 +1,12 @@
+flutter_launcher_icons:
+  image_path: "assets/images/splash.png"
+
+  android: "launcher_icon"
+  image_path_android: "assets/images/playstore.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#FFFFFF"  # Use a solid color (e.g., white)
+  adaptive_icon_foreground: "assets/images/playstore.png"  # Your logo without transparency
+
+  ios: true
+  image_path_ios: "assets/images/appstore.png"
+  remove_alpha_channel_ios: true
